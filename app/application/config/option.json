@@ -1,0 +1,17 @@
+{
+    "inputDeviceSetting": {
+        "camera": {
+            "active": true, 
+            "name": "BU302MCG", 
+            "spec": "4.1.0.1", 
+            "device": 0
+        }, 
+        "file": {
+            "active": false, 
+            "filePath": ""
+        }, 
+        "frameOrientation": {
+            "portrait": false
+        }
+    }
+}

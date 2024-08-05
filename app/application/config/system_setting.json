@@ -1,0 +1,26 @@
+{
+    "camera_device": {
+        "active": true, 
+        "name": "BU302MCG", 
+        "spec": "4.1.0.1", 
+        "device": 0
+    },
+    "webcam_setting": {
+        "focus": 20,
+        "exposure": 156,
+        "white_balance": 6490
+    },
+    "telicam_setting": {
+        "AcquisitionFrameRate": 10.0,
+        "Gain": 0.0,
+        "ExposureTime": 8000.0,
+        "Gamma": 1.0,
+        "BalanceWhiteAuto": "Off",
+        "BlackLevel": 0.0
+    },
+    "app_setting": {
+        "low_conf": 0.0,
+        "med_conf": 0.5,
+        "high_conf": 0.7
+    }
+}
